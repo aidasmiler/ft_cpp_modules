@@ -1,5 +1,5 @@
-# ft_cpp_modules
-CPP Piscine to start learning C++ from scratch
+![cover-cpp](https://github.com/user-attachments/assets/f4e5d1e8-6c2a-48af-93f7-3c1f79eb6105)
+### CPP Piscine to start learning C++ from scratch
 
 ## [CPP00](/cpp00)
 Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff
